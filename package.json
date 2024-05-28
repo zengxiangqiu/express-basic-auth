@@ -1,6 +1,6 @@
 {
-  "name": "express-basic-auth",
-  "version": "1.2.1",
+  "name": "@zengxq/express-basic-auth",
+  "version": "1.0.3",
   "description": "Plug & play basic auth middleware for express",
   "main": "index.js",
   "types": "express-basic-auth.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LionC/express-basic-auth.git"
+    "url": "git+https://github.com/zengxiangqiu/express-basic-auth.git"
   },
   "keywords": [
     "express",
@@ -20,12 +20,12 @@
     "authentication",
     "http"
   ],
-  "author": "LionC <me@lionc.de>",
+  "author": "zengxiangqiu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LionC/express-basic-auth/issues"
+    "url": "https://github.com/zengxiangqiu/express-basic-auth/issues"
   },
-  "homepage": "https://github.com/LionC/express-basic-auth#readme",
+  "homepage": "https://github.com/zengxiangqiu/express-basic-auth#readme",
   "dependencies": {
     "basic-auth": "^2.0.1"
   },
